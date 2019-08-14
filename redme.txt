@@ -1,0 +1,8 @@
+# very simple Music Player made using Tkinter and Pygame
+
+# install these packages using pip 
+
+	tkinter
+	pygame
+	mutagen
+
